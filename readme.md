@@ -5,7 +5,8 @@ This repository contains an implementation of the paper "Improved Techniques for
 
 
 
-![Animated GIF]([https://github.com/your-username/your-repo/raw/main/path/to/your-gif.gif](https://github.com/anas-aljanaby/GAN/blob/main/output.gif?raw=true))
+![Animated GIF](https://github.com/anas-aljanaby/GAN/blob/main/output.gif?raw=true)
+
 
 ## Requirements
 
