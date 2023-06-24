@@ -2,6 +2,11 @@
 
 This repository contains an implementation of the paper "Improved Techniques for Training GANs". The code includes a baseline Generative Adversarial Network (GAN) model and an improved version of the same model that incorporates the techniques proposed in the paper: feature matching, minibatch discrimination, historical averaging, and one-sided label smoothing.
 
+
+
+
+![Animated GIF]([https://github.com/your-username/your-repo/raw/main/path/to/your-gif.gif](https://github.com/anas-aljanaby/GAN/blob/main/output.gif?raw=true))
+
 ## Requirements
 
 - Python 3.7+
@@ -19,5 +24,7 @@ pip install -r requirements.txt
 ## Running the code 
 To train the GAN models, simply run the Python script:
 ```python main.py```
+
+
 
 
