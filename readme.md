@@ -1,6 +1,6 @@
 # Improved Techniques for Training GANs
 
-This repository contains an implementation of the paper "Improved Techniques for Training GANs". The code includes a baseline Generative Adversarial Network (GAN) model and an improved version of the same model that incorporates the techniques proposed in the paper: feature matching, minibatch discrimination, historical averaging, and one-sided label smoothing.
+This repository contains an implementation of the paper "Improved Techniques for Training GANs". The code includes a baseline Generative Adversarial Network (GAN) model and an improved version of the same model that incorporates the techniques proposed in the paper: feature matching, minibatch discrimination, historical averaging, and one-sided label smoothing. The network is trained to generate MNIST digits, below is an example of the network output after just a few epochs:
 
 
 
